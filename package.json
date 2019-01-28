@@ -1,0 +1,25 @@
+{
+  "name": "node-circle-ci",
+  "version": "0.0.1",
+  "description": "circle-ci持续集成",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuhaohao1234/node-circle-ci.git"
+  },
+  "keywords": [],
+  "author": "wuhaohao <1611499758@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuhaohao1234/node-circle-ci/issues"
+  },
+  "homepage": "https://github.com/wuhaohao1234/node-circle-ci#readme",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "mocha": "^5.2.0"
+  }
+}
